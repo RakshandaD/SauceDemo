@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-02T20:09:53 IST" name="Suite" finished-at="2023-10-02T20:10:42 IST" duration-ms="48728">
+    <groups>
+    </groups>
+    <test started-at="2023-10-02T20:09:53 IST" name="Swag Products Test" finished-at="2023-10-02T20:10:42 IST" duration-ms="48728">
+      <class name="testcases.EndToEndProductTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:53 IST" name="start" finished-at="2023-10-02T20:09:55 IST" duration-ms="2060" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="addSingleProdAndCheckOut()[pri:1, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:55 IST" name="addSingleProdAndCheckOut" finished-at="2023-10-02T20:09:56 IST" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSingleProdAndCheckOut -->
+        <test-method signature="addMultiProdAndCheckOut()[pri:2, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:56 IST" name="addMultiProdAndCheckOut" finished-at="2023-10-02T20:09:57 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultiProdAndCheckOut -->
+        <test-method signature="sortProducts()[pri:3, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:57 IST" name="sortProducts" finished-at="2023-10-02T20:09:58 IST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortProducts -->
+        <test-method signature="singleAddedProdRemovefromCart()[pri:4, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:58 IST" name="singleAddedProdRemovefromCart" finished-at="2023-10-02T20:09:58 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleAddedProdRemovefromCart -->
+        <test-method signature="multiAddedProdRemovefromCart()[pri:5, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:58 IST" name="multiAddedProdRemovefromCart" finished-at="2023-10-02T20:09:59 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiAddedProdRemovefromCart -->
+        <test-method signature="verifyTwitterNavigation()[pri:6, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:09:59 IST" name="verifyTwitterNavigation" finished-at="2023-10-02T20:10:29 IST" duration-ms="30124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTwitterNavigation -->
+        <test-method signature="verifyFBNavigation()[pri:7, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:10:29 IST" name="verifyFBNavigation" finished-at="2023-10-02T20:10:30 IST" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFBNavigation -->
+        <test-method signature="verifyLinkedInNavigation()[pri:8, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:10:30 IST" name="verifyLinkedInNavigation" finished-at="2023-10-02T20:10:33 IST" duration-ms="2574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinkedInNavigation -->
+        <test-method signature="verifyOpenMenu()[pri:9, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:10:33 IST" name="verifyOpenMenu" finished-at="2023-10-02T20:10:42 IST" duration-ms="8606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpenMenu -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.EndToEndProductTest@3cec79d3]" started-at="2023-10-02T20:10:42 IST" name="close" finished-at="2023-10-02T20:10:42 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.EndToEndProductTest -->
+    </test> <!-- Swag Products Test -->
+  </suite> <!-- Suite -->
+</testng-results>
